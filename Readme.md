@@ -37,6 +37,6 @@ example :  :grinning:  --> 1f600
 ```
 
 # unicode emoji 
-```java
+
    You cant consult in file  :  **Emojione.java** and **emoji.json**
-```
+
