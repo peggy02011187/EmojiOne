@@ -1,9 +1,9 @@
 # Emoji
 
-Emoji (???????, Japanese pronunciation: [emod?i]) are ideograms and smileys used in electronic messages and Web pages. The characters, which are used much like ASCII emoticons or kaomoji, exist in various genres, including facial expressions, common objects, places and types of weather, and animals.
+Emoji (絵文字えもじ?, Japanese pronunciation: [emodʑi]) are ideograms and smileys used in electronic messages and Web pages. The characters, which are used much like ASCII emoticons or kaomoji, exist in various genres, including facial expressions, common objects, places and types of weather, and animals.
 
 # Emoji in text message 
-Emoji in message will have pattern :   _:([-+\\w]+):_   
+Emoji in message will have pattern :    **:([-+\\w]+):**  
 example :  :grinning:  --> 1f600
 
 # To Replace all Emoji in message 
@@ -38,5 +38,5 @@ example :  :grinning:  --> 1f600
 
 # unicode emoji 
 ```java
-   You cant consult in file  :  _Emojione.java_ or _emoji.json_
+   You cant consult in file  :  **Emojione.java** and **emoji.json**
 ```
